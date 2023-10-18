@@ -1,4 +1,9 @@
-### Hi there 👋
+### Assalamu alaykum everyone👋, my name is Mansur
+
+- 👨🏻‍💻  Software Engineer.
+- 🔭 I’m currently working on side projects.
+- 🌱 I’m currently learning Micro Services.
+- 💬 Ask me about anything, I'll listen and help. 
 
 <!--
 **MansurSobirjonov/MansurSobirjonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
