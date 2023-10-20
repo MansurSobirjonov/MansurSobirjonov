@@ -6,7 +6,6 @@
 - 💬 Ask me about anything, I'll listen and help.
 
 -  📫 How to reach me: mansursobirjonov.me@gmail.com
-- 
 
 <!--
 **MansurSobirjonov/MansurSobirjonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
