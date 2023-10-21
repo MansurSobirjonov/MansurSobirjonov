@@ -1,12 +1,14 @@
-### Assalamu alaykum everyone👋, my name is Mansur
+**Assalamu alaykum everyone 👋**
 
-- 👨🏻‍💻  Software Engineer.
-- 🔭 I’m currently working on side projects.
-- 🌱 I’m currently learning Micro Services.
-- 💬 Ask me about anything, I'll listen and help.
+I'm Mansur, a Software Engineer.
 
--  📫 How to reach me: mansursobirjonov.me@gmail.com
+* **👨‍💻** Working on side projects.
+* **🔭** Learning about Microservices.
+* **🌱** Always learning and growing.
 
+**💬** Ask me anything. I'm happy to help.
+
+**📫** Email me: mansursobirjonov.me@gmail.com
 <!--
 **MansurSobirjonov/MansurSobirjonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
